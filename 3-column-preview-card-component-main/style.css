@@ -1,0 +1,86 @@
+.sedans {
+  width: 200px;
+  height: auto;
+  max-width: 450px;
+  background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.suvs {
+  width: 200px;
+  height: auto;
+  max-width: 120rem;
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  width: 200px;
+  height: auto;
+  max-width: 120rem;
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.sedans img {
+  padding-top: 2rem;
+}
+
+.sedans h1 {
+  padding: 1.2rem;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  margin-bottom: 0.4rem;
+  color: #fff;
+  font-family: "Big Shoulders Display", cursive;
+}
+
+.sedans p {
+  font-family: "Lexend Deca", sans-serif;
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+  font-size: 0.7rem;
+  color: #fff;
+}
+
+.suvs h1 {
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  margin-bottom: 0.4rem;
+  color: #fff;
+  font-family: "Big Shoulders Display", cursive;
+}
+
+.suvs p {
+  font-family: "Lexend Deca", sans-serif;
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+  font-size: 0.7rem;
+  color: #fff;
+}
+
+.suvs img {
+  padding-top: 2rem;
+}
+
+.luxury h1 {
+  padding: 1.2rem;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  margin-bottom: 0.4rem;
+  color: #fff;
+  font-family: "Big Shoulders Display", cursive;
+}
+
+.luxury p {
+  font-family: "Lexend Deca", sans-serif;
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+  font-size: 0.7rem;
+  color: #fff;
+}
+
+.luxury img {
+  padding-top: 2rem;
+}

@@ -1,0 +1,78 @@
+.button-link:link,
+.button-link:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  transition: all 0.3s;
+  padding: 1rem 4rem;
+  background-color: #fff;
+  border-radius: 36px;
+  margin-bottom: 3.4rem;
+}
+
+.button-link:hover,
+.button-link:active {
+  background-color: transparent;
+}
+
+.sedan:link,
+.sedan:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1rem;
+  transition: all 0.3s;
+  padding: 0.4rem 2rem;
+  margin-left: 0.4rem;
+  background-color: #fff;
+  color: hsl(31, 77%, 52%);
+  border-radius: 36px;
+  margin-bottom: 3.4rem;
+}
+
+.lux:link,
+.lux:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1.4rem;
+  font-size: 1rem;
+  transition: all 0.3s;
+  padding: 0.4rem 2rem;
+  margin-left: 0.4rem;
+  background-color: #fff;
+  color: hsl(179, 100%, 13%);
+  border-radius: 36px;
+  margin-bottom: 3.4rem;
+}
+
+.suv:link,
+.suv:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1rem;
+  transition: all 0.3s;
+  padding: 0.4rem 2rem;
+  margin-left: 0.4rem;
+  background-color: #fff;
+  color: hsl(184, 100%, 22%);
+  border-radius: 36px;
+  margin-bottom: 3.4rem;
+}
+
+.suv:hover,
+.suv:active,
+.lux:hover,
+.lux:active,
+.sedan:hover,
+.sedan:active {
+  background-color: transparent;
+  border: solid #fff 1px;
+  color: #fff;
+}
